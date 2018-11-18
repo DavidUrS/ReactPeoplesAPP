@@ -1,0 +1,11 @@
+input[id='lastname']{
+    margin-top: 4px;
+}
+input[id='name']{
+    margin-top: 4px;
+}
+input[type='submit']{
+    margin-top: 4px;
+    background-color: white;
+    border:  1px solid gray;
+}
